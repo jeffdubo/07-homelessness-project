@@ -1,5 +1,6 @@
 # Project exclusions
 config.py
+.my_resources/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
